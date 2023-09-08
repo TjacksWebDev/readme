@@ -18,8 +18,8 @@
 
 ### Backend  
 <div>  
-<a href=""><img style="margin: 20px" src="[assets/express-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)" alt="Express.js" height="50" /></a>  
-<a href=""><img style="margin: 20px" src="[assets/express-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)" alt="Java" height="50" /></a>  
+<a href=""><img style="margin: 20px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href=""><img style="margin: 20px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
 </td><td valign="top">
