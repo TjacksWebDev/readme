@@ -22,7 +22,7 @@
 <a href=""><img style="margin: 20px" src="[assets/express-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)" alt="Java" height="50" /></a>  
 </div>
 
-</td></tr>
+</td><td valign="top">
 
 
 
@@ -30,5 +30,7 @@
 <div>  
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="50"/></a>
 </div>
+
+</td></tr>
 
 </table>
