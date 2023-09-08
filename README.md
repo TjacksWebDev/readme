@@ -29,6 +29,6 @@
 ### IDEs
 <div>  
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="50"/></a>
-</div>div>  
+</div>
 
 </table>
