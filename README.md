@@ -1,7 +1,5 @@
 ### Hi there, I'm Srikanth, nice to meet you! 👋
 
-### I'm a Software Engineer specializing in Spring Boot and React
--  👨 Pronouns: he/him/his
 -  🧠 2023 Learning Goals: Working on Spring Boot, Typescript, and React skills.
 
 <table width="100%" border="1"><tr><td valign="top">
