@@ -1,4 +1,4 @@
-### Hi there, I'm Srikanth, nice to meet you! <img src="https://github.com/frankstepanski/osumed/blob/master/assets/Hi.gif" width="29px" height="29px">
+### Hi there, I'm Srikanth, nice to meet you! 👋
 
 ### I'm a Software Engineer!
 -  👨 Pronouns: he/him/his
