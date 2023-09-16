@@ -1,6 +1,6 @@
 ### Hi there, I'm Srikanth, nice to meet you! 👋
 
--  🧠 2023 Learning Goals: Working on Spring Boot, Typescript, and React skills.
+-  🧠 2023 Learning Goals: Working on Spring Boot and React skills.
 
 <table width="100%" border="1"><tr><td valign="top">
 
