@@ -4,7 +4,7 @@
   
 ## 🛠️ Technologies & Tools
 
-### Languages
+### Languages:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,7 +31,7 @@
  <!-- **Selenium 	Selenium 	![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)-->
  <!-- Testing Library 	Testing-Library 	![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)-->
 
-### Contact me 📫:
+### Contact me 📫
 
  <!-- <a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>   -->
 <a href="https://www.linkedin.com/in/srikanthmed//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="28" height="28"/></a>
