@@ -5,36 +5,14 @@
 <table width="100%" border="1"><tr><td valign="top">
 
 ### Frontend  
-<div>  
-<img style="margin: 20px" src="assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 20px" src="assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 20px" src="assets/react-original-wordmark.svg" alt="React" height="50" /> 
-<!-- <img style="margin: 15px" src="assets/mocha.png" alt="Mocha" height="50" />  -->
-</div>
-
-</td><td valign="top">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Backend  
-<div>  
-<a href=""><img style="margin: 20px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href=""><img style="margin: 20px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href=""><img style="margin: 20px" src="springbooticon.png" alt="Java" height="50" /></a>  
-
-  
-</div>
-
-</td><td valign="top">
 
 
 
 ### IDEs
-<div>  
-<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="50"/></a>
-</div>
 
-</td></tr>
-
-</table>
 
 ### Contact me:
 
