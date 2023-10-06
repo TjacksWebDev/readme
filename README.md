@@ -2,7 +2,22 @@
 
 -  🧠 2023 Learning Goals: Working on Spring Boot and React skills.
 -  💼 At work, I actively use Express.js and Python.
+  
+## 🚀 Current Projects:
 
+### Bank Application 
+- **Description**: Bank Application to practice Many to Many & other relationships. 
+- **Tech Stack**: Java Springboot, SQL, Thymeleaf.
+- **Links**: 
+  - 🔗 [Live Site](https://bankapplication.up.railway.app/users)
+  - 📁 [GitHub Repo](https://github.com/OSUMed/BankApplicationSpringboot)
+
+### Job Navi 
+- **Description**: Job Application Helper built with React, Typescript, Material UI, SQL, and Java Springboot.
+- **Tech Stack**: React, Typescript, Material UI, SQL, Java Springboot.
+- **Links**: 
+  - 🔗 [Live Site](jobtrackerfe.netlify.app/applications)
+  - 📁 [GitHub Repo](https://github.com/OSUMed/Job-Navi-FrontEnd/tree/main)
   
 ## 🛠️ Technologies & Tools
 
