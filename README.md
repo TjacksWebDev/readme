@@ -16,7 +16,7 @@
 - **Description**: Job Application Helper built with React, Typescript, Material UI, SQL, and Java Springboot.
 - **Tech Stack**: React, Typescript, Material UI, SQL, Java Springboot.
 - **Links**: 
-  - 🔗 [Live Site](jobtrackerfe.netlify.app/applications)
+  - 🔗 [Live Site](https://jobtrackerfe.netlify.app/applications)
   - 📁 [GitHub Repo](https://github.com/OSUMed/Job-Navi-FrontEnd/tree/main)
   
 ## 🛠️ Technologies & Tools
