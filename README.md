@@ -13,7 +13,7 @@
   - 📁 [GitHub Repo](https://github.com/OSUMed/BankApplicationSpringboot)
 
 ### Job Navi 
-- **Description**: Job Application Helper built with React, Typescript, Material UI, SQL, and Java Springboot.
+- **Description**: Job Application Helper
 - **Tech Stack**: React, Typescript, Material UI, SQL, Java Springboot.
 - **Links**: 
   - 🔗 [Live Site](https://jobtrackerfe.netlify.app/) 
