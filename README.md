@@ -2,7 +2,8 @@
 
 -  🧠 2023 Learning Goals: Working on Spring Boot and React skills.
 -  💼 At work, I actively use Express.js and Python.
-  
+
+<!--
 ## 🚀 Current Projects:
 
 ### Bank Application 
@@ -18,7 +19,9 @@
 - **Links**: 
   - 🔗 [Live Site](https://jobtrackerfe.netlify.app/) 
   - 📁 [GitHub Repo](https://github.com/OSUMed/Job-Navi-FrontEnd/tree/main)
-  
+
+-->
+
 ## 🛠️ Technologies & Tools
 
 ### Languages:
