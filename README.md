@@ -1,24 +1,15 @@
-### Hi there, I'm Srikanth, nice to meet you! 👋
+### Hi there, I'm Ty, nice to meet you! 👋
 
 -  🧠 2023 Learning Goals: Working on Spring Boot, React, and Tailwind CSS skills.
--  💼 At work, I actively use Express.js and Python.
+
 
 <!--
 ## 🚀 Current Projects:
 
-### Bank Application 
-- **Description**: Bank Application to practice Many to Many & other relationships. 
-- **Tech Stack**: Java Springboot, SQL, Thymeleaf.
-- **Links**: 
-  - 🔗 [Live Site](https://bankapplication.up.railway.app/users)
-  - 📁 [GitHub Repo](https://github.com/OSUMed/BankApplicationSpringboot)
+### Unit Testing
+- **Description**: Learning how to use unit testing or JUnit
+- **Tech Stack**: Server Side.
 
-### Job Navi 
-- **Description**: Job Application Helper
-- **Tech Stack**: React, Typescript, Material UI, SQL, Java Springboot.
-- **Links**: 
-  - 🔗 [Live Site](https://jobtrackerfe.netlify.app/) 
-  - 📁 [GitHub Repo](https://github.com/OSUMed/Job-Navi-FrontEnd/tree/main)
 
 -->
 
@@ -26,13 +17,8 @@
 
 ### Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osumed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjackswebdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" /></div>
 ### Frameworks & Libraries
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -60,8 +46,8 @@
 ## 📫 Contact me 
 
  <!-- <a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>   -->
-<a href="https://www.linkedin.com/in/srikanthmed//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="28" height="28"/></a>
-<a href = "mailto: srikanthsmedicherla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+<a href="https://www.linkedin.com/in/paula-ty-jackson//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="28" height="28"/></a>
+<a href = "mailto: tyjackson@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 
   
 
